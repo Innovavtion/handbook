@@ -12,3 +12,4 @@
 4. **SVG** (Работа с svg)
 5. [**Selectors**](https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048 "надо будет перенести") (Селекторы)
 6. **Methodologies** (Методологии)
+7. **Семантическая верстка**
