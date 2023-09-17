@@ -129,3 +129,7 @@ Grid - позволяет размещать контент сайта (расп
 - **end** - Выравнивает содержимое по нижней части области;
 - **center** - Выравнивает содержимое по центру области;
 - **stretch** - Заполняет всю высоту области;
+
+---
+
+[Можно посмотреть тут](https://idg.net.ua/blog/uchebnik-css/razmetka-css/grid/container), [Habr](https://habr.com/ru/company/macloud/blog/564182/) ,[Краткая документация](https://tpverstak.ru/grid/), [Неплохой справочник](https://hcdev.ru/grid/).
