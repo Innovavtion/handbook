@@ -1,7 +1,5 @@
 ## Selectors (Селекторы)
 
-[источник](https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
-
 **Селекторы** - это выражения, которые говорят браузеру, к какому элементу HTML нужно применить те или иные свойства CSS, определённые внутри блока объявления стиля.
 
 **Псевдокласс** - это ключевое слово, добавленное к селектору, которое определяет его особое состояние. пример - **`:active`**
@@ -194,3 +192,7 @@ p::first-line {
   font-size: 1.2em;
 }
 ```
+
+---
+
+[источник](https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048)

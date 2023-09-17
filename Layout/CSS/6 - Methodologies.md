@@ -1,7 +1,5 @@
 ## Methodologies (Методологии)
 
-[Habr](https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048), [Triu](https://triu.ru/ponimanie-metodologii-napisaniya-css-hongkiat/)
-
 **Методологии** - помогают создавать расширяемые,легко поддержываемые и повторно использумые компоненты интерфейса.
 
 **Самые распространенные методологии**:
@@ -53,3 +51,7 @@ Atomic CSS, редко также ACSS — атомарный CSS. В некот
 
 - наименования классов представляют собой описательные названия свойств, не описывая семантическую сущность элемента, что иногда может усложнить разработку;
 - настройки отображения элементов переносятся непосредственно в HTML (это не то, для чего были придуманы таблицы стилей, не так ли?).
+
+---
+
+[Habr](https://code.tutsplus.com/ru/tutorials/the-30-css-selectors-you-must-memorize--net-16048), [Triu](https://triu.ru/ponimanie-metodologii-napisaniya-css-hongkiat/)
