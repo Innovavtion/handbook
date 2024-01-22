@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6cae986d82142cc8",
+        "id": "608ad2b8d095bfa9",
         "type": "tabs",
         "children": [
           {
-            "id": "c31ed7fecb491edb",
+            "id": "6243c728f9456431",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "file": "GitHub/Git.md",
                 "staged": false
               }
             }
@@ -68,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 259.5
   },
   "right": {
     "id": "bf594bcfb5affd71",
@@ -79,33 +79,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9bc8c99a585a2ba4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "56c4197b07b044ba",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "e1e7be3fe33e3cec",
             "type": "leaf",
             "state": {
@@ -114,14 +87,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "e29e1d12a456089f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
             }
           },
           {
@@ -141,11 +106,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,21 +123,32 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c31ed7fecb491edb",
+  "active": "6243c728f9456431",
   "lastOpenFiles": [
-    "Data/Kanban.md",
     "GitHub/Git.md",
+    "Layout/CSS/1 - Flexbox.md",
+    "GitHub/Extension/Git-Commit.md",
+    "GitHub/GitBash.md",
+    "GitHub/Extension",
+    "Data/Kanban.md",
+    "Framework/Next",
+    "Framework",
+    "Framework/Nest",
+    "Data/Topics",
+    "Library/React/1 - Основные концепции/3 - Компоненты и пропсы.md",
+    "Library/React/1 - Основные концепции/2 - Рендер Элементов.md",
+    "Library/React/1 - Основные концепции/1 - JSX (JavaScript XML).md",
+    "Layout/CSS/5 - Selectors.md",
+    "Layout/CSS/4 - SVG.md",
+    "Layout/CSS/3 - Animation.md",
+    "Language/TypeScript/Interfaces & Type.md",
     "Data",
     "Новая папка",
     "Layout/CSS/README.md",
-    "GitHub/GitPlus.md",
-    "GitHub/GitBash.md",
     "README.md",
-    "Layout/CSS/1 - Flexbox.md",
     "Language/JavaScript/Methods Array.md",
     "Language/JavaScript/Methods String.md",
     "GitHub/GitHub.md",
-    "Без названия",
     "Без названия.md"
   ]
 }
